@@ -1,0 +1,13 @@
+{
+  "itemGroup.cheloviymod": "Example Mod Tab",
+  "block.cheloviymod.example_block": "Example Block",
+  "item.cheloviymod.example_item": "Example Item",
+
+  "cheloviymod.configuration.title": "CheloviyMod Configs",
+  "cheloviymod.configuration.section.cheloviymod.common.toml": "CheloviyMod Configs",
+  "cheloviymod.configuration.section.cheloviymod.common.toml.title": "CheloviyMod Configs",
+  "cheloviymod.configuration.items": "Item List",
+  "cheloviymod.configuration.logDirtBlock": "Log Dirt Block",
+  "cheloviymod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "cheloviymod.configuration.magicNumber": "Magic Number"
+}
