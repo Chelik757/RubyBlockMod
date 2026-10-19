@@ -1,7 +1,7 @@
 {
-  "itemGroup.cheloviymod": "Example Mod Tab",
-  "block.cheloviymod.example_block": "Example Block",
-  "item.cheloviymod.example_item": "Example Item",
+  "itemGroup.cheloviymod": "Рубинчики",
+  "block.cheloviymod.example_block": "Рубиновый блок",
+  "item.cheloviymod.example_item": "Рубиновая руда",
 
   "cheloviymod.configuration.title": "CheloviyMod Configs",
   "cheloviymod.configuration.section.cheloviymod.common.toml": "CheloviyMod Configs",
