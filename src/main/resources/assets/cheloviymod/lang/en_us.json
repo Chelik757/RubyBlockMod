@@ -1,8 +1,8 @@
 {
   "itemGroup.cheloviymod": "RubyMod",
-  "block.cheloviymod.example_block": "Ruby block",
-  "item.cheloviymod.example_item": "Ruby ore",
-
+  "block.cheloviymod.ruby_block": "Ruby block",
+  "item.cheloviymod. ruby_item": "Ruby ore",
+  "item.cheloviymod.ruby": "Ruby",
   "cheloviymod.configuration.title": "CheloviyMod Configs",
   "cheloviymod.configuration.section.cheloviymod.common.toml": "CheloviyMod Configs",
   "cheloviymod.configuration.section.cheloviymod.common.toml.title": "CheloviyMod Configs",
